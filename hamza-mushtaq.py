@@ -58,7 +58,7 @@ hamza_guests.insert(2, "abu");
 hamza_guests.append("saqib");
 
 print("I am erally sorry to announce that my booking for tasty is changed, now I can invite only two people")
-removed1 = armaghan_hamza.pop(0)
+removed1 = hamza_guests.pop(0)
 print("Hi "+removed1+", Sorry I can't invite you to dinner")
 removed2 = hamza_guests.pop(0)
 print("Hi "+removed2+", Sorry I can't invite you to dinner")
